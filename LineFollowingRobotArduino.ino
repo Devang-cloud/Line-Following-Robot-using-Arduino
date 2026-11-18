@@ -9,7 +9,7 @@
 
 void setup(){ //  setup code here, to run once
 
-pinMode(R_S, INPUT); // declare if sensor as input  
+pinMode(R_S, INPUT); // declare ir sensor as input  
 pinMode(L_S, INPUT); // declare ir sensor as input
 
 pinMode(enA, OUTPUT); // declare as output for L298 Pin enA 
